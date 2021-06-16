@@ -1,0 +1,77 @@
+adblockparser==     0.7
+appdirs==           1.4.4
+argon2-cffi==       20.1.0
+asgiref==           3.3.4
+astroid==           2.5
+attrs==             21.2.0
+Automat==           20.2.0
+brotlipy==          0.7.0
+cached-property==   1.5.2
+certifi==           2021.5.30
+cffi==              1.14.5
+chardet==           4.0.0
+constantly==        15.1.0
+cryptography==      3.4.7
+cssselect==         1.1.0
+defusedxml==        0.7.1
+dj-database-url==   0.5.0
+Django==            3.2.4
+django-chartjs==    2.2.1
+django-heroku==     0.3.1
+funcparserlib==     0.3.6
+gunicorn==          20.1.0
+h2==                3.2.0
+hpack==             3.0.0
+hyperframe==        5.2.0
+hyperlink==         21.0.0
+idna==              2.10
+incremental==       21.3.0
+isodate==           0.6.0
+isort==             5.8.0
+itemadapter==       0.2.0
+itemloaders==       1.0.4
+jmespath==          0.10.0
+lazy-object-proxy== 1.6.0
+lxml==4.6.3
+mccabe==0.6.1
+mkl-fft==1.3.0
+mkl-random==1.2.1
+mkl-service==2.3.0
+numpy==1.20.2
+pandas==1.2.4
+parsel==1.6.0
+Pillow==8.2.0
+pip==21.1.2
+priority==1.3.0
+Protego==0.1.16
+psutil==5.8.0
+psycopg2==2.8.6
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pycparser==2.20
+PyDispatcher==2.0.5
+pylint==2.7.4
+pyOpenSSL==20.0.1
+PySocks==1.7.1
+python-dateutil==2.8.1
+pytz==2021.1
+qt5reactor==0.6.3
+queuelib==1.6.1
+requests==2.25.1
+requests-file==1.5.1
+requests-toolbelt==0.9.1
+scrapyjs==0.2
+service-identity==21.1.0
+setuptools==56.2.0
+six==1.16.0
+sqlparse==0.4.1
+toml==0.10.2
+Twisted==21.2.0
+urllib3==1.26.4
+w3lib==1.22.0
+wheel==0.36.2
+whitenoise==5.2.0
+wrapt==1.12.1
+xvfbwrapper==0.2.9
+zeep==4.0.0
+zope.interface==5.4.0
